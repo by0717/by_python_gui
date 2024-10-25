@@ -9,5 +9,10 @@ Add all bind test method
 
 分别是入口文件、界面文件，界面控制器。在controller 中可以导入其他的测试function 或者py文件，这样可以直接更省心，当然ui界面的动作和控制可以修改。
 另外采用了异步和多线程的方式，让程序运行不阻塞和加快效率。
+![image](https://github.com/user-attachments/assets/60b3f98e-4380-42cc-8684-d2e620043027)
+![image](https://github.com/user-attachments/assets/cf49d92e-f66f-4d3e-b178-6819a0ead940)
+![image](https://github.com/user-attachments/assets/b06be228-c577-4fda-a8ff-89fe3afb787d)
+
+
 
 
